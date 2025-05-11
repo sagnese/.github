@@ -1,4 +1,4 @@
-## Bienvenue Chez Sagnesé 👋
+# Bienvenue Chez Sagnesé 👋
 
 <!--
 
